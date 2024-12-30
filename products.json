@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Wireless Mouse",
+      "company": "electronics",
+      "price": 20,
+      "rating": 4.5,
+      "featured": true,
+      "brand": "BrandA",
+      "inStock": true
+    },
+    {
+      "name": "Laptop",
+      "company": "electronics",
+      "price": 800,
+      "rating": 4.7,
+      "featured": false,
+      "brand": "BrandB",
+      "inStock": true
+    },
+    {
+      "name": "Smartphone",
+      "company": "electronics",
+      "price": 600,
+      "rating": 4.2,
+      "featured": true,
+      "brand": "BrandC",
+      "inStock": false
+    },
+    {
+      "name": "Headphones",
+      "company": "electronics",
+      "price": 50,
+      "rating": 4.1,
+      "featured": true,
+      "brand": "BrandA",
+      "inStock": true
+    },
+    {
+      "name": "T-shirt",
+      "company": "fashion",
+      "price": 15,
+      "rating": 4.0,
+      "featured": false,
+      "brand": "BrandC",
+      "inStock": true
+    },
+    {
+      "name": "Jeans",
+      "company": "fashion",
+      "price": 40,
+      "rating": 4.3,
+      "featured": true,
+      "brand": "BrandB",
+      "inStock": true
+    },
+    {
+      "name": "Jacket",
+      "company": "fashion",
+      "price": 100,
+      "rating": 4.6,
+      "featured": false,
+      "brand": "BrandA",
+      "inStock": false
+    },
+    {
+      "name": "Blender",
+      "company": "home",
+      "price": 70,
+      "rating": 4.4,
+      "featured": true,
+      "brand": "BrandB",
+      "inStock": true
+    },
+    {
+      "name": "Toaster",
+      "company": "home",
+      "price": 30,
+      "rating": 4.0,
+      "featured": false,
+      "brand": "BrandC",
+      "inStock": true
+    },
+    {
+      "name": "Microwave",
+      "company": "home",
+      "price": 120,
+      "rating": 4.8,
+      "featured": true,
+      "brand": "BrandA",
+      "inStock": false
+    },
+    {
+      "name": "Sneakers",
+      "company": "fashion",
+      "price": 60,
+      "rating": 4.2,
+      "featured": false,
+      "brand": "BrandA",
+      "inStock": true
+    },
+    {
+      "name": "Desk Lamp",
+      "company": "home",
+      "price": 25,
+      "rating": 4.1,
+      "featured": false,
+      "brand": "BrandB",
+      "inStock": true
+    },
+    {
+      "name": "Monitor",
+      "company": "electronics",
+      "price": 200,
+      "rating": 4.6,
+      "featured": true,
+      "brand": "BrandC",
+      "inStock": true
+    },
+    {
+      "name": "Gaming Chair",
+      "company": "electronics",
+      "price": 150,
+      "rating": 4.5,
+      "featured": false,
+      "brand": "BrandB",
+      "inStock": false
+    },
+    {
+      "name": "Air Fryer",
+      "company": "home",
+      "price": 90,
+      "rating": 4.3,
+      "featured": true,
+      "brand": "BrandA",
+      "inStock": true
+    },
+    {
+      "name": "Coffee Maker",
+      "company": "home",
+      "price": 75,
+      "rating": 4.7,
+      "featured": false,
+      "brand": "BrandB",
+      "inStock": false
+    },
+    {
+      "name": "Winter Coat",
+      "company": "fashion",
+      "price": 120,
+      "rating": 4.8,
+      "featured": true,
+      "brand": "BrandC",
+      "inStock": true
+    },
+    {
+      "name": "Sofa",
+      "company": "home",
+      "price": 500,
+      "rating": 4.6,
+      "featured": false,
+      "brand": "BrandB",
+      "inStock": false
+    },
+    {
+      "name": "Tablet",
+      "company": "electronics",
+      "price": 300,
+      "rating": 4.2,
+      "featured": true,
+      "brand": "BrandA",
+      "inStock": true
+    },
+    {
+      "name": "Watch",
+      "company": "fashion",
+      "price": 250,
+      "rating": 4.5,
+      "featured": false,
+      "brand": "BrandC",
+      "inStock": true
+    }
+  ]
+  

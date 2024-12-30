@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>E-commerce Filters</title>
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="left-side">
+            <h1>E-commerce Product Filters</h1>
+
+            <div class="filter-section">
+                <h3>Search</h3>
+                <input type="text" id="searchInput" placeholder="Search products">
+            </div>
+
+            <div class="filter-section">
+                <h3>Category</h3>
+                <select id="categoryFilter">
+                    <option value="">All Categories</option>
+                    <option value="electronics">Electronics</option>
+                    <option value="fashion">Fashion</option>
+                    <option value="home">Home & Kitchen</option>
+                </select>
+            </div>
+
+            <div class="filter-section">
+                <h3>Price</h3>
+                <input type="number" id="minPrice" placeholder="Min price">
+                <input type="number" id="maxPrice" placeholder="Max price">
+            </div>
+
+            <div class="filter-section">
+                <h3>Ratings</h3>
+                <select id="ratingFilter">
+                    <option value="">Any Rating</option>
+                    <option value="4">4 Stars & Up</option>
+                    <option value="3">3 Stars & Up</option>
+                    <option value="2">2 Stars & Up</option>
+                </select>
+            </div>
+
+            <div class="filter-section">
+                <h3>Brand</h3>
+                <select id="brandFilter">
+                    <option value="">All Brands</option>
+                    <option value="brandA">Brand A</option>
+                    <option value="brandB">Brand B</option>
+                    <option value="brandC">Brand C</option>
+                </select>
+            </div>
+
+            <div class="filter-section">
+                <h3>Availability</h3>
+                <input type="checkbox" id="inStockOnly"> In Stock Only
+            </div>
+
+            <button id="applyFilters">Apply Filters</button>
+        </div>
+
+        <div class="products" id="productList">
+            <h1 style="color: red;">This is the product container</h1>
+        </div>
+    </div>
+
+</body>
+
+</html>
